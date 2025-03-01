@@ -94,7 +94,7 @@ I am a backend developer specializing in building high-performance and scalable 
 
 ## Projects
 
-### 1. [Task Manager](https://github.com/SalahidinAI/task-manager)
+### 1. [BusinessPro](https://github.com/SalahidinAI/BusinessPro)
 <div>
   Веб-приложение для управления задачами, созданное с использованием **Django**, **PostgreSQL** и **Docker**.
 </div>
