@@ -19,10 +19,6 @@ I am a backend developer specializing in building high-performance and scalable 
       <br>Django
     </td>
     <td align="center" width="80">
-      <img src="https://skillicons.dev/icons?i=fastapi" width="43" height="43" alt="FastAPI" />
-      <br>FastAPI
-    </td>
-    <td align="center" width="80">
       <img src="https://skillicons.dev/icons?i=postgresql" width="43" height="43" alt="PostgreSQL" />
       <br>PostgreSQL
     </td>
@@ -38,6 +34,43 @@ I am a backend developer specializing in building high-performance and scalable 
       <img src="https://skillicons.dev/icons?i=linux" width="43" height="43" alt="Linux" />
       <br>Linux
     </td>
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=websocket" width="43" height="43" alt="WebSocket" />
+      <br>WebSocket
+    </td>
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=aws" width="43" height="43" alt="AWS" />
+      <br>AWS
+    </td>
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=git" width="43" height="43" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=github" width="43" height="43" alt="GitHub" />
+      <br>GitHub
+    </td>
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=postman" width="43" height="43" alt="Postman" />
+      <br>Postman
+    </td>
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=graphql" width="43" height="43" alt="GraphQL" />
+      <br>GraphQL
+    </td>
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=nginx" width="43" height="43" alt="Nginx" />
+      <br>Nginx
+    </td>
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=sqlite" width="43" height="43" alt="SQLite" />
+      <br>SQLite
+    </td>
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=docker" width="43" height="43" alt="Docker Hub" />
+      <br>Docker Hub
+    </td>
+
   </tr>
 </table>
 </p>
