@@ -7,6 +7,7 @@ I am a backend developer specializing in building high-performance and scalable 
 </div>
 
 ## Skills
+## Skills
 <p align="start">
 <table align="center">
   <tr>
@@ -19,12 +20,20 @@ I am a backend developer specializing in building high-performance and scalable 
       <br>Django
     </td>
     <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=fastapi" width="43" height="43" alt="FastAPI" />
+      <br>FastAPI
+    </td>
+    <td align="center" width="80">
       <img src="https://skillicons.dev/icons?i=postgresql" width="43" height="43" alt="PostgreSQL" />
       <br>PostgreSQL
     </td>
     <td align="center" width="80">
       <img src="https://skillicons.dev/icons?i=redis" width="43" height="43" alt="Redis" />
       <br>Redis
+    </td>
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=websocket" width="43" height="43" alt="WebSocket" />
+      <br>WebSocket
     </td>
     <td align="center" width="80">
       <img src="https://skillicons.dev/icons?i=docker" width="43" height="43" alt="Docker" />
@@ -34,21 +43,19 @@ I am a backend developer specializing in building high-performance and scalable 
       <img src="https://skillicons.dev/icons?i=linux" width="43" height="43" alt="Linux" />
       <br>Linux
     </td>
-    <td align="center" width="80">
-      <img src="https://skillicons.dev/icons?i=websocket" width="43" height="43" alt="WebSocket" />
-      <br>WebSocket
-    </td>
+  </tr>
+  <tr>
     <td align="center" width="80">
       <img src="https://skillicons.dev/icons?i=aws" width="43" height="43" alt="AWS" />
       <br>AWS
     </td>
     <td align="center" width="80">
-      <img src="https://skillicons.dev/icons?i=git" width="43" height="43" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center" width="80">
       <img src="https://skillicons.dev/icons?i=github" width="43" height="43" alt="GitHub" />
       <br>GitHub
+    </td>
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=git" width="43" height="43" alt="Git" />
+      <br>Git
     </td>
     <td align="center" width="80">
       <img src="https://skillicons.dev/icons?i=postman" width="43" height="43" alt="Postman" />
@@ -67,13 +74,15 @@ I am a backend developer specializing in building high-performance and scalable 
       <br>SQLite
     </td>
     <td align="center" width="80">
-      <img src="https://skillicons.dev/icons?i=docker" width="43" height="43" alt="Docker Hub" />
-      <br>Docker Hub
+      <img src="https://skillicons.dev/icons?i=rest" width="43" height="43" alt="REST" />
+      <br>REST
     </td>
-
   </tr>
 </table>
 </p>
+
+
+
 
 ## My GitHub Stats
 
