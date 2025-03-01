@@ -31,10 +31,6 @@
       <br>Redis
     </td>
     <td align="center" width="80">
-      <img src="https://skillicons.dev/icons?i=websocket" width="43" height="43" alt="WebSocket" />
-      <br>WebSocket
-    </td>
-    <td align="center" width="80">
       <img src="https://skillicons.dev/icons?i=docker" width="43" height="43" alt="Docker" />
       <br>Docker
     </td>
@@ -71,10 +67,6 @@
     <td align="center" width="80">
       <img src="https://skillicons.dev/icons?i=sqlite" width="43" height="43" alt="SQLite" />
       <br>SQLite
-    </td>
-    <td align="center" width="80">
-      <img src="https://skillicons.dev/icons?i=rest" width="43" height="43" alt="REST" />
-      <br>REST
     </td>
   </tr>
 </table>
