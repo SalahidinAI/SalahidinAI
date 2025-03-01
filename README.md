@@ -70,13 +70,13 @@ I am a backend developer specializing in building high-performance and scalable 
 ## 📫 Contact Me
 
 <div>
-  <a href="https://www.linkedin.com/in/salakhidin-zulpukarov-a36478337/" target="_blank">
+  <a href="https://www.linkedin.com/in/salahidin-zulpukarov-a36478337/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-профиль-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
   <a href="https://github.com/SalahidinAI/" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-SalahidinAI-black?style=for-the-badge&logo=github" alt="GitHub">
   </a>
-  <a href="https://wa.me/+996701393961" target="_blank">
+  <a href="https://wa.me/+996990333571" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-Contact-green?style=for-the-badge&logo=whatsapp" alt="WhatsApp">
   </a>
   <a href="https://t.me/Salahidinz" target="_blank">
