@@ -1,12 +1,11 @@
 <a href="https://github.com/SalahidinAI">
-  <img height="70" src="https://readme-typing-svg.herokuapp.com?lines=Hi+I+am+Salahidin;and+I+am+Backend+Developer&duration=2500&speed=20&colors=FFE15D,FF5733,33FF57,3357FF,FF33A6"/>
+  <img height="70" src="https://readme-typing-svg.herokuapp.com?lines=I+am+Salahidin;and+I+am+Backend+Developer&duration=2500&speed=20&colors=FFE15D,FF5733,33FF57,3357FF,FF33A6"/>
 </a>
 
 <div style="font-size: 2rem; color: #3498db; animation: fadeIn 2s ease-out;">
-I am a backend developer specializing in building high-performance and scalable web applications using Python. I have experience with Django and FastAPI frameworks, RESTful API development, database integration (PostgreSQL, MySQL) and server-side optimization. My goal is to create reliable and efficient server solutions that provide excellent performance and user experience.
+  I am a backend developer specializing in building high-performance and scalable web applications using Python. My journey started with Python, and I’ve been expanding my skills with Django, FastAPI, cloud technologies, and optimizing large-scale systems. I love solving real-world problems with clean, maintainable code. My goal is to create reliable and efficient server solutions that provide excellent performance and user experience.
 </div>
 
-## Skills
 ## Skills
 <p align="start">
 <table align="center">
@@ -81,9 +80,6 @@ I am a backend developer specializing in building high-performance and scalable 
 </table>
 </p>
 
-
-
-
 ## My GitHub Stats
 
 <div style="display: flex">
@@ -96,7 +92,7 @@ I am a backend developer specializing in building high-performance and scalable 
 
 ### 1. [BusinessPro](https://github.com/SalahidinAI/BusinessPro)
 <div>
-  BusinessPro – это веб-приложение для управления бизнес-процессами, разработанное с использованием Django, PostgreSQL и Docker. Оно предоставляет инструменты для отслеживания финансовых операций, а также для анализа и оптимизации бизнес-процессов, что помогает компаниям повысить эффективность и прибыль.
+  BusinessPro – это веб-приложение для управления бизнес-процессами, разработанное с использованием Django, PostgreSQL и Docker. Оно предоставляет инструменты для отслеживания финансовых операций, а также для анализа и оптимизации бизнес-процессов, что помогает компаниям повысить эффективность и прибыль. Я интегрировал сервисы AWS для масштабируемых развертываний и оптимизировал базу данных с использованием индексирования PostgreSQL для повышения производительности.
 </div>
 
 ### 2. [GlovoProject](https://github.com/SalahidinAI/GlovoProject)
