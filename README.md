@@ -35,6 +35,10 @@
       <br>Docker
     </td>
     <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=dockercompose" width="43" height="43" alt="Docker Compose" />
+      <br>Docker Compose
+    </td>
+    <td align="center" width="80">
       <img src="https://skillicons.dev/icons?i=linux" width="43" height="43" alt="Linux" />
       <br>Linux
     </td>
