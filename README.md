@@ -35,10 +35,6 @@
       <br>Docker
     </td>
     <td align="center" width="80">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/Docker_Compose_logo.png" width="43" height="43" alt="Docker Compose" />
-      <br>Docker Compose
-    </td>
-    <td align="center" width="80">
       <img src="https://skillicons.dev/icons?i=linux" width="43" height="43" alt="Linux" />
       <br>Linux
     </td>
