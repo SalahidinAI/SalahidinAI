@@ -96,7 +96,7 @@
 ## 📫 Contact Me
 
 <div>
-  <a href="https://www.linkedin.com/in/salahidin-zulpukarov-a36478337/" target="_blank">
+  <a href="https://www.linkedin.com/in/salakhidin-zulpukarov-a36478337/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-профиль-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
   <a href="https://github.com/SalahidinAI/" target="_blank">
