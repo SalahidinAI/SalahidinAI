@@ -237,6 +237,25 @@
 
 [//]: # (</div>)
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <a href="https://github.com/SalahidinAI">
   <img height="70" src="https://readme-typing-svg.herokuapp.com?lines=I+am+Salahidin;and+I+am+Backend+Developer&duration=2500&speed=20&colors=FFE15D,FF5733,33FF57,3357FF,FF33A6"/>
 </a>
@@ -248,7 +267,127 @@
 ## Skills
 <p align="start">
 <table align="center">
+
   <tr>
+
+    <td align="center" width="80">
+
+      <img src="https://skillicons.dev/icons?i=python" width="43" height="43" alt="Python" />
+
+      <br>Python
+
+    </td>
+
+    <td align="center" width="80">
+
+      <img src="https://skillicons.dev/icons?i=django" width="43" height="43" alt="Django" />
+
+      <br>Django
+
+    </td>
+
+    <td align="center" width="80">
+
+      <img src="https://skillicons.dev/icons?i=fastapi" width="43" height="43" alt="FastAPI" />
+
+      <br>FastAPI
+
+    </td>
+
+    <td align="center" width="80">
+
+      <img src="https://skillicons.dev/icons?i=postgresql" width="43" height="43" alt="PostgreSQL" />
+
+      <br>PostgreSQL
+
+    </td>
+
+    <td align="center" width="80">
+
+      <img src="https://skillicons.dev/icons?i=redis" width="43" height="43" alt="Redis" />
+
+      <br>Redis
+
+    </td>
+
+    <td align="center" width="80">
+
+      <img src="https://skillicons.dev/icons?i=docker" width="43" height="43" alt="Docker" />
+
+      <br>Docker
+
+    </td>
+
+    <td align="center" width="80">
+
+      <img src="https://skillicons.dev/icons?i=linux" width="43" height="43" alt="Linux" />
+
+      <br>Linux
+
+    </td>
+
+  </tr>
+
+  <tr>
+
+    <td align="center" width="80">
+
+      <img src="https://skillicons.dev/icons?i=aws" width="43" height="43" alt="AWS" />
+
+      <br>AWS
+
+    </td>
+
+    <td align="center" width="80">
+
+      <img src="https://skillicons.dev/icons?i=github" width="43" height="43" alt="GitHub" />
+
+      <br>GitHub
+
+    </td>
+
+    <td align="center" width="80">
+
+      <img src="https://skillicons.dev/icons?i=git" width="43" height="43" alt="Git" />
+
+      <br>Git
+
+    </td>
+
+    <td align="center" width="80">
+
+      <img src="https://skillicons.dev/icons?i=postman" width="43" height="43" alt="Postman" />
+
+      <br>Postman
+
+    </td>
+
+    <td align="center" width="80">
+
+      <img src="https://skillicons.dev/icons?i=graphql" width="43" height="43" alt="GraphQL" />
+
+      <br>GraphQL
+
+    </td>
+
+    <td align="center" width="80">
+
+      <img src="https://skillicons.dev/icons?i=nginx" width="43" height="43" alt="Nginx" />
+
+      <br>Nginx
+
+    </td>
+
+    <td align="center" width="80">
+
+      <img src="https://skillicons.dev/icons?i=sqlite" width="43" height="43" alt="SQLite" />
+
+      <br>SQLite
+
+    </td>
+
+  </tr>
+ <tr>
     <td align="center" width="80"><img src="https://skillicons.dev/icons?i=python" width="43" height="43" alt="Python" /><br>Python</td>
     <td align="center" width="80"><img src="https://skillicons.dev/icons?i=sql" width="43" height="43" alt="SQL" /><br>SQL</td>
     <td align="center" width="80"><img src="https://skillicons.dev/icons?i=mongodb" width="43" height="43" alt="MongoDB" /><br>MongoDB</td>
