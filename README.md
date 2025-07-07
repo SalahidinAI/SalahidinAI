@@ -69,9 +69,6 @@
     <td width="80">
       <img src="https://skillicons.dev/icons?i=css" width="43" height="43" alt="CSS" /><br>CSS
     </td>
-    <td width="80"></td>
-    <td width="80"></td>
-    <td width="80"></td>
   </tr>
 </table>
 </p>
