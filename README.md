@@ -1,5 +1,5 @@
 <a href="https://github.com/SalahidinAI">
-  <img height="70" src="https://readme-typing-svg.herokuapp.com?lines=I+am+Salahidin;Backend+Developer;ML+Engineer&duration=3500&speed=20&colors=FFE15D,FF5733,33FF57,3357FF,FF33A6"/>
+  <img height="70" src="https://readme-typing-svg.herokuapp.com?lines=I+am+Salahidin;Backend+Developer;ML+Engineer&duration=3000&speed=20&colors=FFE15D,FF5733,33FF57,3357FF,FF33A6"/>
 </a>
 
 <div style="font-size: 2rem; color: #3498db; animation: fadeIn 2s ease-out;">
