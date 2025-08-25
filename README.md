@@ -3,7 +3,12 @@
 </a>
 
 <div style="font-size: 2rem; color: #3498db; animation: fadeIn 2s ease-out;">
-  I am a backend developer specializing in building high-performance and scalable web applications using Python. My journey started with Python, and I’ve been expanding my skills with Django, FastAPI, cloud technologies, and optimizing large-scale systems. I love solving real-world problems with clean, maintainable code. My goal is to create reliable and efficient server solutions that provide excellent performance and user experience.
+  I am a Backend Developer and Machine Learning Engineer with a strong passion for building scalable applications and intelligent systems.
+My main focus is on designing reliable backend architectures, working with databases, and developing solutions that combine traditional software engineering with modern AI technologies.
+
+I enjoy solving complex problems, learning new technologies, and continuously improving my skills. My current work includes backend development with Python and Django, as well as applying machine learning techniques to real-world projects.
+
+I believe in writing clean, maintainable code and building solutions that bring real value to people and businesses.
 </div>
 
 ## Skills
