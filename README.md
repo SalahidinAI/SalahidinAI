@@ -75,22 +75,35 @@
 
 ## Projects
 
-### 1. [BusinessPro](https://github.com/SalahidinAI/BusinessPro)
+### 1. [CRM-MED](https://github.com/SalahidinAI/CRM_MED)
 
 <div>
-  BusinessPro – это веб-приложение для управления бизнес-процессами, разработанное с использованием Django, PostgreSQL и Docker. Оно предоставляет инструменты для отслеживания финансовых операций, а также для анализа и оптимизации бизнес-процессов, что помогает компаниям повысить эффективность и прибыль. Я интегрировал сервисы AWS для масштабируемых развертываний и оптимизировал базу данных с использованием индексирования PostgreSQL для повышения производительности.
+  CRM_MED is a Customer Relationship Management system designed for medical centers and healthcare organizations.
+The project helps manage patient records, appointments, and interactions between medical staff and clients.
+It aims to improve communication, streamline workflows, and provide a structured way to organize healthcare processes.
+
+Key Features:
+Patient and appointment management
+Medical staff and client interaction tracking
+Simple and scalable architecture
+Built with Python (with Docker support for deployment)
+
+This project serves as a foundation for building modern CRM solutions in the healthcare domain.
 </div>
 
-### 2. [GlovoProject](https://github.com/SalahidinAI/GlovoProject)
+### 2. [BusinessPro](https://github.com/SalahidinAI/BusinessPro)
 
 <div>
-  GlovoProject – это веб-приложение для управления сервисом доставки, разработанное с использованием Django, PostgreSQL и Docker. Оно позволяет пользователям заказывать еду, товары и другие услуги с доставкой, а курьерам — эффективно управлять своими заказами.
-</div>
+ BusinessPro is a business management platform that focuses on organizing products and services within groups.
+The system provides functionality for creating, managing, and structuring products in a clear and efficient way.
+It is designed for companies that need an organized tool to handle group-based product workflows.
 
-### 3. [HospitalProject](https://github.com/SalahidinAI/HospitalProject)
+Key Features:
+Group and product management
+Scalable backend architecture with Python
+Docker integration for easier deployment
 
-<div>
-  HospitalProject – это веб-приложение для управления больничными процессами, разработанное с использованием Django, PostgreSQL и Docker. Оно позволяет пользователям записываться на приём к врачам, просматривать медицинские данные и результаты анализов, а медицинскому персоналу — эффективно управлять пациентами и расписанием.
+BusinessPro can be used as a starting point for developing enterprise-level solutions with flexible product management.
 </div>
 
 ## 📫 Contact Me
