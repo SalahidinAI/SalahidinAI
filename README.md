@@ -78,32 +78,17 @@
 ### 1. [CRM-MED](https://github.com/SalahidinAI/CRM_MED)
 
 <div>
-  CRM_MED is a Customer Relationship Management system designed for medical centers and healthcare organizations.
-The project helps manage patient records, appointments, and interactions between medical staff and clients.
-It aims to improve communication, streamline workflows, and provide a structured way to organize healthcare processes.
-
-Key Features:
-Patient and appointment management
-Medical staff and client interaction tracking
-Simple and scalable architecture
-Built with Python (with Docker support for deployment)
-
-This project serves as a foundation for building modern CRM solutions in the healthcare domain.
+  CRM_MED is a Customer Relationship Management system developed for medical centers and healthcare organizations.
+It helps manage patients, appointments, and communication between doctors and clients. The project is built with Python and supports Docker for deployment.
+The main goal of CRM_MED is to improve workflow efficiency and provide a structured way to organize daily healthcare processes.
 </div>
 
 ### 2. [BusinessPro](https://github.com/SalahidinAI/BusinessPro)
 
 <div>
- BusinessPro is a business management platform that focuses on organizing products and services within groups.
-The system provides functionality for creating, managing, and structuring products in a clear and efficient way.
-It is designed for companies that need an organized tool to handle group-based product workflows.
-
-Key Features:
-Group and product management
-Scalable backend architecture with Python
-Docker integration for easier deployment
-
-BusinessPro can be used as a starting point for developing enterprise-level solutions with flexible product management.
+  BusinessPro is a business management platform designed to simplify the organization of products and services within groups.
+It provides tools for creating and managing products in a clear and efficient way, making it suitable for companies that need a structured approach to product workflows.
+The system is developed with Python and includes Docker support for easier deployment.
 </div>
 
 ## 📫 Contact Me
