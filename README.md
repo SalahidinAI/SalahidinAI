@@ -41,7 +41,16 @@ I believe in writing clean, maintainable code and building solutions that bring 
   </tr>
   <tr>
     <td width="80">
+      <img src="https://skillicons.dev/icons?i=pytorch" width="43" height="43" alt="PyTorch" /><br>PyTorch
+    </td>
+    <td width="80">
+      <img src="https://skillicons.dev/icons?i=streamlit" width="43" height="43" alt="Streamlit" /><br>Streamlit
+    </td>
+    <td width="80">
       <img src="https://skillicons.dev/icons?i=docker" width="43" height="43" alt="Docker" /><br>Docker
+    </td>
+    <td width="80">
+      <img src="https://skillicons.dev/icons?i=compose" width="43" height="43" alt="Docker Compose" /><br>Compose
     </td>
     <td width="80">
       <img src="https://skillicons.dev/icons?i=nginx" width="43" height="43" alt="Nginx" /><br>Nginx
@@ -55,6 +64,8 @@ I believe in writing clean, maintainable code and building solutions that bring 
     <td width="80">
       <img src="https://skillicons.dev/icons?i=git" width="43" height="43" alt="Git" /><br>Git
     </td>
+  </tr>
+  <tr>
     <td width="80">
       <img src="https://skillicons.dev/icons?i=github" width="43" height="43" alt="GitHub" /><br>GitHub
     </td>
@@ -106,7 +117,7 @@ The system is developed with Python and includes Docker support for easier deplo
   <a href="https://wa.me/+996990333571" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-Contact-green?style=for-the-badge&logo=whatsapp" alt="WhatsApp">
   </a>
-  <a href="https://t.me/Salahidinz" target="_blank">
+  <a href="https://t.me/salah_systems" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-Contact-blue?style=for-the-badge&logo=telegram" alt="Telegram">
   </a>
   <a href="https://www.instagram.com/_salahidin1_/" target="_blank">
