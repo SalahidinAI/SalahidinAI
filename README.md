@@ -76,12 +76,12 @@ I believe in writing clean, maintainable code and building solutions that bring 
 ## My GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats-salahidins-projects.vercel.app/api?username=SalahidinAI&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400" alt="GitHub Stats" />
-  <img width="49%" src="https://streak-stats.demolab.com/?user=SalahidinAI&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SalahidinAI&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=SalahidinAI&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats-salahidins-projects.vercel.app/api/top-langs/?username=SalahidinAI&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&langs_count=8&cache_seconds=86400" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalahidinAI&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
 </p>
 
 ## Projects
