@@ -65,11 +65,6 @@ I believe in writing clean, maintainable code and building solutions that bring 
       <img src="https://skillicons.dev/icons?i=postman" width="43" height="43" alt="Postman" /><br>Postman
     </td>
   </tr>
-  <tr>
-    <td width="80">
-      <img src="https://skillicons.dev/icons?i=graphql" width="43" height="43" alt="GraphQL" /><br>GraphQL
-    </td>
-  </tr>
 </table>
 </p>
 
