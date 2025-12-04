@@ -76,12 +76,13 @@ I believe in writing clean, maintainable code and building solutions that bring 
 ## My GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SalahidinAI&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SalahidinAI&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SalahidinAI&theme=tokyonight" alt="GitHub Stats" />
+  <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SalahidinAI&theme=tokyonight&utcOffset=6" alt="Productive Time" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SalahidinAI&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
+  <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SalahidinAI&theme=tokyonight" alt="Top Languages" />
+  <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SalahidinAI&theme=tokyonight" alt="Most Commit Language" />
 </p>
 
 ## Projects
