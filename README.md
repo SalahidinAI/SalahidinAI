@@ -76,10 +76,12 @@ I believe in writing clean, maintainable code and building solutions that bring 
 ## My GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/SalahidinAI">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SalahidinAI&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalahidinAI&layout=compact&langs_count=8&theme=tokyonight"/>
-  </a>
+  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SalahidinAI&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SalahidinAI&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SalahidinAI&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
 </p>
 
 ## Projects
