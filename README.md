@@ -71,11 +71,11 @@ I believe in writing clean, maintainable code and building solutions that bring 
 ## My GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SalahidinAI&show_icons=true&theme=cobalt&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SalahidinAI&theme=cobalt&hide_border=true" alt="GitHub Streak" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SalahidinAI&show_icons=true&theme=calm&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SalahidinAI&theme=calm&hide_border=true" alt="GitHub Streak" />
 </p>
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalahidinAI&theme=cobalt&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalahidinAI&theme=calm&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
 </p>
 
 ## Projects
