@@ -44,13 +44,7 @@ I believe in writing clean, maintainable code and building solutions that bring 
       <img src="https://skillicons.dev/icons?i=pytorch" width="43" height="43" alt="PyTorch" /><br>PyTorch
     </td>
     <td width="80">
-      <img src="https://skillicons.dev/icons?i=streamlit" width="43" height="43" alt="Streamlit" /><br>Streamlit
-    </td>
-    <td width="80">
       <img src="https://skillicons.dev/icons?i=docker" width="43" height="43" alt="Docker" /><br>Docker
-    </td>
-    <td width="80">
-      <img src="https://skillicons.dev/icons?i=compose" width="43" height="43" alt="Docker Compose" /><br>Compose
     </td>
     <td width="80">
       <img src="https://skillicons.dev/icons?i=nginx" width="43" height="43" alt="Nginx" /><br>Nginx
@@ -64,14 +58,14 @@ I believe in writing clean, maintainable code and building solutions that bring 
     <td width="80">
       <img src="https://skillicons.dev/icons?i=git" width="43" height="43" alt="Git" /><br>Git
     </td>
-  </tr>
-  <tr>
     <td width="80">
       <img src="https://skillicons.dev/icons?i=github" width="43" height="43" alt="GitHub" /><br>GitHub
     </td>
     <td width="80">
       <img src="https://skillicons.dev/icons?i=postman" width="43" height="43" alt="Postman" /><br>Postman
     </td>
+  </tr>
+  <tr>
     <td width="80">
       <img src="https://skillicons.dev/icons?i=graphql" width="43" height="43" alt="GraphQL" /><br>GraphQL
     </td>
