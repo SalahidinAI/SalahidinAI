@@ -71,10 +71,7 @@ I believe in writing clean, maintainable code and building solutions that bring 
 ## My GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SalahidinAI&theme=highcontrast&hide_border=true&background=1a1b27&stroke=70a5fd&ring=bf91f3&fire=bf91f3&currStreakNum=bf91f3&sideNums=bf91f3&currStreakLabel=70a5fd&sideLabels=70a5fd&dates=a6b1c8" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=SalahidinAI&theme=high-contrast&hide_border=true&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=bf91f3&area=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=SalahidinAI&theme=calm&hide_border=true" alt="GitHub Streak Stats" />
 </p>
 
 ## Projects
