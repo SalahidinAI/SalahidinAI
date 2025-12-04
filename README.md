@@ -24,24 +24,27 @@ I believe in writing clean, maintainable code and building solutions that bring 
       <img src="https://skillicons.dev/icons?i=fastapi" width="43" height="43" alt="FastAPI" /><br>FastAPI
     </td>
     <td width="80">
+      <img src="https://skillicons.dev/icons?i=pytorch" width="43" height="43" alt="PyTorch" /><br>PyTorch
+    </td>
+    <td width="80">
+      <img src="https://skillicons.dev/icons?i=scikitlearn" width="43" height="43" alt="scikit-learn" /><br>scikit-learn
+    </td>
+    <td width="80">
+      <img src="https://skillicons.dev/icons?i=opencv" width="43" height="43" alt="OpenCV" /><br>OpenCV
+    </td>
+    <td width="80">
       <img src="https://skillicons.dev/icons?i=postgresql" width="43" height="43" alt="PostgreSQL" /><br>PostgreSQL
     </td>
     <td width="80">
       <img src="https://skillicons.dev/icons?i=redis" width="43" height="43" alt="Redis" /><br>Redis
     </td>
+  </tr>
+  <tr>
     <td width="80">
       <img src="https://skillicons.dev/icons?i=mongodb" width="43" height="43" alt="MongoDB" /><br>MongoDB
     </td>
     <td width="80">
       <img src="https://skillicons.dev/icons?i=sqlite" width="43" height="43" alt="SQLite" /><br>SQLite
-    </td>
-    <td width="80">
-      <img src="https://skillicons.dev/icons?i=scikitlearn" width="43" height="43" alt="scikit-learn" /><br>scikit-learn
-    </td>
-  </tr>
-  <tr>
-    <td width="80">
-      <img src="https://skillicons.dev/icons?i=pytorch" width="43" height="43" alt="PyTorch" /><br>PyTorch
     </td>
     <td width="80">
       <img src="https://skillicons.dev/icons?i=docker" width="43" height="43" alt="Docker" /><br>Docker
@@ -61,6 +64,8 @@ I believe in writing clean, maintainable code and building solutions that bring 
     <td width="80">
       <img src="https://skillicons.dev/icons?i=github" width="43" height="43" alt="GitHub" /><br>GitHub
     </td>
+  </tr>
+  <tr>
     <td width="80">
       <img src="https://skillicons.dev/icons?i=postman" width="43" height="43" alt="Postman" /><br>Postman
     </td>
