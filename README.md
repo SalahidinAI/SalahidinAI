@@ -71,12 +71,12 @@ I believe in writing clean, maintainable code and building solutions that bring 
 ## My GitHub Stats
 
 <p align="center">
-  <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SalahidinAI&theme=monokai" alt="GitHub Stats" />
-  <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SalahidinAI&theme=monokai&utcOffset=6" alt="Productive Time" />
+  <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SalahidinAI&theme=github_dark" alt="GitHub Stats" />
+  <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SalahidinAI&theme=github_dark&utcOffset=6" alt="Productive Time" />
 </p>
 <p align="center">
-  <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SalahidinAI&theme=monokai" alt="Top Languages" />
-  <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SalahidinAI&theme=monokai" alt="Most Commit Language" />
+  <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SalahidinAI&theme=github_dark" alt="Top Languages" />
+  <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SalahidinAI&theme=github_dark" alt="Most Commit Language" />
 </p>
 
 ## Projects
